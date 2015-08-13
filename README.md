@@ -13,7 +13,8 @@ This repository contains **Dockerfile** of [Grafana(2.1.0)](http://grafana.org/)
 
 1. Install [Docker](https://www.docker.com/).
 
-2. Download [automated build](https://registry.hub.docker.com/u/puckel/docker-grafana/) from public [Docker Hub Registry](https://registry.hub.docker.com/): `docker pull puckel/docker-grafana`
+2. Download [automated build](https://registry.hub.docker.com/u/puckel/docker-grafana/) from public [Docker Hub Registry](https://registry.hub.docker.com/):
+ `docker pull puckel/docker-grafana`
 
 Alternatively, you can build an image from [Dockerfile](https://github.com/puckel/docker-grafana)
 
