@@ -13,7 +13,7 @@ ENV TERM linux
 # Work around initramfs-tools running on kernel 'upgrade': <http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=594189>
 ENV INITRD No
 
-ENV GRAFANA_VERSION 2.1.1
+ENV GRAFANA_VERSION 2.1.2
 
 RUN apt-get update -yqq \
     && apt-get install -yqq \
